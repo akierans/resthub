@@ -1,0 +1,27 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "An app demonstrating simple Restful API implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akierans/resthub.git"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "json"
+  ],
+  "author": "Ash Kierans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akierans/resthub/issues"
+  },
+  "homepage": "https://github.com/akierans/resthub#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
